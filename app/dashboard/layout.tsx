@@ -8,7 +8,7 @@ const menuItems = [
   { href: "/dashboard/feedback", label: "反馈" },
   { href: "/dashboard/rework", label: "返工" },
   { href: "/dashboard/history", label: "历史" },
-  { href:dashboard/stats", label: "统计" },
+  { href: "/dashboard/stats", label: "统计" },
   { href: "/dashboard/settings", label: "设置" },
 ];
 
